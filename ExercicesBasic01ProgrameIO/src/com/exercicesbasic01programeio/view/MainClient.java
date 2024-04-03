@@ -1,3 +1,6 @@
+/*Exercicio 01: Este programa exige algumas informacoes de um determinado cliente
+ * e no final ele lista as informacoes */
+
 package com.exercicesbasic01programeio.view;
 
 import java.io.PrintStream;
